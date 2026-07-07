@@ -23,8 +23,8 @@ h2 {
 
 button {
     border: none;
-    background: none;
-    display: block;
+    background: transparent;
+    display: flext;
     transition: all 0.5s;
     cursor: pointer;
 }
