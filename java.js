@@ -43,6 +43,17 @@ var swiper = new Swiper('.mySwiper3', {
     },
       });
 
+var swiper = new Swiper('.mySwiper6', {
+        loop: true,
+        pagination: {
+          el: '.swiper-pagination',
+        },
+        autoplay: {
+          delay: 2500,
+          disableOnInteraction: false,
+        },
+      });
+
 var swiper = new Swiper('.mySwiper5', {
         loop: true,
         pagination: {
